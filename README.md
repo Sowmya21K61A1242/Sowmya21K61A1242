@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sowmya Pandiri</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Learner</h3>
 <img align = "right" alt = "Coding" width = 400 src = "https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmya21k61a1242&label=Profile%20views&color=0e75b6&style=flat" alt="sowmya21k61a1242" /> </p>
 
